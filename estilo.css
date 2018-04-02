@@ -11,13 +11,13 @@ body{
 }
 
 h1, h2, h3, h4{
-	font-family: 'Dosis', sans-serif;
+	font-family: 'Quicksand', sans-serif;
 	font-weight:700; 
 }
 
 h1{
 	letter-spacing:0.1em;
-	color:rgba(255,255,255,0.9);
+	color:#FFA414;
 	text-shadow: 1px 1px 0 #999;	
 	text-align:center;
 }
