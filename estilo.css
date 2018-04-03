@@ -5,7 +5,7 @@
 
 body{
 	background:#91E5D1;
-	color:#032645;
+	color:#B2644A;
 	font-family: 'Quicksand', sans-serif;
 	font-weight:200;
 }
@@ -17,7 +17,7 @@ h1, h2, h3, h4{
 
 h1{
 	letter-spacing:0.1em;
-	color:#FFA414;	
+	color:#B2644A;	
 	text-align:center;
 }
 
@@ -31,7 +31,7 @@ h2{
 
 h3{
 	letter-spacing:0.2em; 
-	color:2D3BFF; 
+	color:#FFA283; 
 	padding:2em 0 0.6em 0; 
 	text-shadow: 1px 1px 0 #ccc;
 	text-align:center;	
@@ -68,7 +68,7 @@ video{
 
 #somos{
 	width:100%;
-	background:8EFFE5;
+	background:#8EFFE5;
 	margin-bottom:2%;
 	}
 
@@ -76,24 +76,24 @@ video{
 	width:46%;
 	padding:2%;
 	float:left;
-	background-color:032142;
+	background-color:#FFA283;
 	}
 
 .dupla a{
-	color:#032345;
+	color:#FFA283;
 	text-decoration:none;
 	font-weight:700;
 }
 
 .dupla a:hover{
-	color:#032345;
+	color:#8EFFE5;
 	text-decoration:underline;
 }
 
 .primera{
 	min-height:300px;
 	text-align:left;
-	background-color:rgba(241,230,210,1);
+	background-color:#FFA283;
 	background-image:url('media/dupla-01.jpg');
 	background-position:top right;
 	background-repeat:no-repeat;
