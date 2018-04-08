@@ -4,7 +4,7 @@
 }
 
 body{
-	background:#E7FFF4;
+	background:#FFFFFF;
 	color:#998F82;
 	font-family: 'Quicksand', sans-serif;
 	font-weight:200;
@@ -24,7 +24,7 @@ h1{
 
 h2{
 	letter-spacing:0.02em; 
-	color:#998F82; 
+	color:#FFFFFF; 
 	padding:0.2em 0; 
 	text-align:center;		
 }
@@ -67,7 +67,7 @@ video{
 
 #somos{
 	width:100%;
-	background:#B1DED9;
+	background:#D6D6D6;
 	margin-bottom:2%;
 	}
 
@@ -75,7 +75,7 @@ video{
 	width:46%;
 	padding:2%;
 	float:left;
-	background-color:#FFA283;
+	background-color:#D6D6D6;
 	}
 
 .dupla a{
@@ -92,8 +92,8 @@ video{
 .primera{
 	min-height:300px;
 	text-align:left;
-	background-color:#B1DED9;
-	background-image:url('media/dupla-01.jpg');
+	background-color:#D6D6D6;
+	background-image:url('media/dupla1.png');
 	background-position:top right;
 	background-repeat:no-repeat;
 	background-size:auto 100%;
@@ -109,8 +109,8 @@ video{
 .segunda{
 	min-height:300px;
 	text-align:right;
-	background-color:#B1DED9;
-	background-image:url('media/dupla-02.jpg');
+	background-color:#D6D6D6;
+	background-image:url('media/dupla2.png');
 	background-position:top left;
 	background-repeat:no-repeat;
 	background-size:auto 100%;
