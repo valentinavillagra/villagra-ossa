@@ -40,9 +40,15 @@ h3{
 	text-align:center;	
 }
 
-h4, h5, h6{
+h4, h5{
 	font-weight:left;
-	font-weight:200; 	
+	font-weight:200; 
+}	
+h6{
+	font-weight:left;
+	font-weight:200; 
+	font-family:'Quicksand', sans-serif;
+	color:#FF9B73
 }
 
 #contenido{width:98%; margin:1% auto;}
