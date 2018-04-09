@@ -20,7 +20,7 @@ h3, h4{
 
 h1{
 	letter-spacing:0.1em;
-	color:#CAFFFF;	
+	color:#46F7CC;	
 	text-align:center;
 	font-size:90px;
 	
@@ -28,9 +28,10 @@ h1{
 
 h2{
 	letter-spacing:0.02em; 
-	color:#B24F3A; 
+	color:#FF9B73; 
 	padding:0.3em 0; 
-	text-align:center;		
+	text-align:center;
+	font size:30px
 }
 
 h3{
